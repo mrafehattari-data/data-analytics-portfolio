@@ -47,7 +47,7 @@ Relationships reflect real-world HR systems.
 	• project_summary.md — Portfolio summary
 
 🧑‍💻 Author
-Your Name
+Muhammad Rafeh Attari
 Data Analyst — SQL | Excel | BI Tools
-![Uploading image.png…]()
+
 
